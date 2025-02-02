@@ -1,4 +1,6 @@
-Algoritma Tasarımı (Emeklilik Yaşı Hesaplama)
+Projemin amacı, emeklilik yaşını hesaplamaktır. 
+
+Algoritma Tasarımı / Çalışma Mantığı (Emeklilik Yaşı Hesaplama)
 🔹 Giriş (Başlangıç):
 
 Kullanıcıdan doğum yılı istenir.
